@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- I like to code.
+I like to code.
